@@ -112,9 +112,9 @@
     "phone": "6176868813"
   },
   {
-  "name": "Jacob Aaron",
-  "phone": "8573377064"
-},
+    "name": "Jacob Aaron",
+    "phone": "8573377064"
+  },
   {
     "name": "Jake Finney",
     "phone": "6178515966"
@@ -138,10 +138,6 @@
   {
     "name": "Jason MacNeil",
     "phone": "6176342352"
-  },
-  {
-    "name": "Jason Oney",
-    "phone": "6178940471"
   },
   {
     "name": "Jay Castrucci",
@@ -353,11 +349,10 @@
   },
   {
     "name": "Vin Patel",
-    "phone": "8572704026" 
+    "phone": "8572704026"
   },
   {
     "name": "Zach Govoni",
     "phone": "6176342452"
   }
 ]
-
